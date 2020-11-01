@@ -125,3 +125,18 @@ header {
     }
   }
 }
+.cartWindowStyle {
+  transform: translateX(0);
+}
+.shopStyle {
+  padding: 100px 400px 100px 5%;
+}
+
+.addQuantity,
+.substractQuantity {
+  width: 30px;
+  border: none;
+  color: #fff;
+  background: rgb(121, 13, 13);
+  outline: none;
+}
